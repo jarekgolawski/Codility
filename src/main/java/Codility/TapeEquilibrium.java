@@ -2,7 +2,7 @@ package Codility;
 
 public class TapeEquilibrium {
 	
-	public int solution(int[] A) {
+	public static int solution(int[] A) {
     
 		int right=0;
 		int left=0;
